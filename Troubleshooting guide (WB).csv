@@ -1,0 +1,68 @@
+,Problems,Causes,Details,Solutions
+,Colour Difference,Substrate Differences,The color and material of the paper used for proofing and actual printing are inconsistent.,Use paper materials consistent with those used for prrofing during bulk printing.
+,Colour Difference,Color Confusion,"For the same Pantone number, different customers have different hues and formulas.",Standardize files so each Pantone number corresponds to a single color and a single file.
+,Colour Difference,Printing Process Control,Ink thickening or excessive water addition during ther printing process,"Regularly test ink pH. If above 8.5, add pH adjuster; if below, use water to adjust viscosity and fluid balance."
+,Colour Difference,Light influence,"Ink color perception is affected by illumination angle, intensity, and type of light source.",Use consistent lighting conditions and evaluate under a standard color-matching lightbox or D65 light source.
+,Colour Difference,Exposure to light,"Standard color cards fade or change when exposed to sunlight or other light sources, causing mismatch with printed output.",Replace standard color cards regularly and store them in the same environment as printed documents to maintain consistency.
+,Colour Difference,Color Matching Deviation,Inaccurate ink mixing due to skill gaps or lack of documentation,Provide ink-mixing training and maintain formula archives for frequently used colors.
+,Thickening,Ink Formulation,The ink formulation is unreasonable.,Choose appropriate materials and adjust the formula.
+,Thickening,pH Balance,"The pH value of the ink is below 8, disrupting its balance.",Add 0.1-0.5% pH adjustmend solution.
+,Thickening,Temperature,High temperature causes the ink to dry too quickly.,Add 3-5% slow-drying agent.
+,Caking,Fast Drying,The ink dries too quickly during use,Add 2-3% slow-drying agent during ink formulation.
+,Caking,Low pH,The pH of the ink is below 7.5,Supplement with 0.2-0.5% pH adjustment solution.
+,Caking,Too acidic,Excess acidic water added during preparation,Check the ink's pH value every hours during summer to maintain proper balance
+,Foaming,Long-Term Circulation,"Water and amine substances volatilize over time, leading to low pH and high viscosity.",Add 0.2-0.5% defoamer and pH adjustment solution
+,Foaming,Low Ink Level,Ink level drops below pump inlet due to insufficient ink.,Maintain sufficient ink level to cover the pump inlet
+,Foaming,Reuse of Old Ink,No defoamer added when reusing old ink.,Replenish with 0.2-0.5% defoamer
+,Foaming,High Viscosity,Prevents release of are pressure,Reduce viscosity and add defoamer to assist foam control
+,Foaming,High Wear Resisance Need,High proportion of film-forming resin generates foam easily.,Add defoamer in small quantities multiple times during printing
+,Foaming,Cleaning Agent Contamination,Cleaning agent flows into the ink system.,Ensure cleaninig agent does not contaminate the ink
+,Foaming,Inappropriate Ink Formula,Foam-stabilizing leveling agnets are present,Add appropriate leveling agents and defoamers
+,Shrinkage / Pinhole,Excess surface sizing,Excessive surface sizing on paper surface,Check the paper surface treatment condition
+,Shrinkage / Pinhole,Strong/excess defoamer,The defoamer is too strong or added in excessive amount,Reselct the defoamer or adjust its proportion
+,Shrinkage / Pinhole,Poor dispersion,Insufficient dispersion of ink or additives,Add 1-2% leveling agent and ensure even dispersion.
+,Reduced Opacity,Low viscosity,Ink viscosity below 10s (Zahn Cup #4),Adjust viscosity to 10-15s
+,Reduced Opacity,Fast Drying,Ink dries too quickly during printing,Add 3-5% slow-drying agent and retarder
+,Reduced Opacity,Light pressure,Printing pressure too low,Increase printing pressure
+,Reduced Opacity,New Scraper,Fresh scraper causes uneven print on large patterns.,Print small patterns first or switch ciolor group
+,Reduced Opacity,Low surface tension,Excess glue on paper reduces ink transfer,Add 1-2% leveling and wetting agents.
+,Reduced Opacity,Rough paper surface,Paper absorbs too much water and ink,"Increase ink viscosity and volume, or use lower line meh/rubber roller"
+,Poor Overprinting,Based ink drying too slowly,"Viscosity too high, slows drying and affects overprint",Add 3-5% quick-drying agent and reduce based ink viscosity
+,Poor Overprinting,Worn scraper on roller,Causes uneven ink transfer,Replace scraper or roller
+,Poor Overprinting,Low top color pressure,Top color fails to adhere properly,Increase top color viscosity and pressure; add 1-2% leveling agent
+,Screen Blocking,Improper viscosity,Ink too thick or too thin for screen mesh,Adjust viscosity to 9-13s
+,Screen Blocking,Excess resin,High resin content clogs screen,Reduce resin ratio
+,Screen Blocking,Plate wear or pressure,High pressure or aged plate causes blockage,Replace plate and reduce pressure
+,Screen Blocking,Mismatched screen/plate,Screen mesh and plate not compatible,Match screen mesh to plate type
+,Screen Blocking,Soft plate,Plate too soft to hold ink properly,Replace with firmer plate
+,Screen Blocking,Worn scraper,Scraper unable to clean screen effectively,Replace scraper
+,Screen Blocking,Long circulation,"pH drops over time., increasing viscosity",Maintain pH between 8.5 - 9.5
+,Burr (Rough Edge),High viscosity,Ink too thick causes jagged edges,Reduce viscosity and clean plate
+,Burr (Rough Edge),Fast Drying,Ink dries before proper transfer,Add slow-drying agent
+,Burr (Rough Edge),Excess pressure,Too much pressure distorts edges,Adjust pressure
+,Burr (Rough Edge),Plate wear,Worn plate causes uneven edges,Replace plate
+,Burr (Rough Edge),Paper dust,Dust interferes with ink transfer,Filter ink frequently
+,Smuding / Ink Rub-off,Low temp/high humidity,Slows drying and causes ink to smear.,Add 3-5% quick-drying agent or switch to faster-drying ink.
+,Smuding / Ink Rub-off,Paper strip friction,Strip rubs against ink during handling,Adjust paper strip position
+,Smuding / Ink Rub-off,Poor wear resistance,Ink lacks durability,Increase anti-wear agents
+,Smuding / Ink Rub-off,Slow-drying overprint,Overprint layer dries too slowly,Use fast-drying ink and reduce base viscosity.
+,Color Fading (Wear),High pigment content,Excess pigment reduces adhesion,"Use anti-wear ink, reduce pigment, increase antiwear agent."
+,Color Fading (Wear),High viscosity and over-dilution,Ink becomes unstable and prone to fading,Use diluent instead of water
+,Color Fading (Wear),Low resin ratio,Insufficient binder reduces durability,Increase resin and antiwear agent
+,Color Fading (Wear),Incomplete drying or moisture,Ink not fully cured or exposed to humidity,Improve drying process
+,Color Fading (Wear),Inconsistent testing,No standard method for wear resistance evaluation,Standardize testing procedure
+,Slipping of Boxes,Wrong material,Box surface too smooth for ink adhesion,Use anti-slip gloss oil
+,Slipping of Boxes,Excess antiwear agent,Reduces surface fiction,Apply anti-slip gloss oil
+,Slipping of Boxes,Small ink area,Insufficient ink coverage on box surface,Increase ink coverage or use textured coating
+,Lightfastness Issues,Pigment choice,Some pigments have poor light resistance,Choose high lightfast pigments
+,Lightfastness Issues,Tone brightness,Bright tines fade faster than dark ones,Prefer darker tones within tolerance
+,Lightfastness Issues,Hue brightness,Overly bright hues degrade faster,Avoid overly bright hues
+,Lightfastness Issues,Yellow/red oigment variability,These pigments vary widely in lightfastness,Control low lightfast pigments
+,Lightfastness Issues,Dilution with white ink,Light tones diluted with white ink fade faster,Use high lightfast colors for light tones
+,Lightfastness Issues,Non-lightfastg colors,Rose/purple tones often lack durability,Avoid unless controlled
+,Halogen Content,Pigment structure,Some pigments contain halogen compounds,Choose low-halogen pigments
+,Halogen Content,Ink contamination,Cross-contamintion introduces halogen,Prevent contamination
+,Mineral Oil Contamination,Petroleum-based defoamers,Mineral oil present in defoamer,Use mineral oil-free defoamers
+,Mineral Oil Contamination,Cross-contamination,Ink contaminated during handling,Prevent contamination
+,,,,
+, ,,,

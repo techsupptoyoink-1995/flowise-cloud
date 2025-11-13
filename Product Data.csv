@@ -1,0 +1,736 @@
+Row Id,Printing Type,Printing Method,Product,Product Type,Revision,BaseType,Printing Viscosity @ 25°C - 29°C,pH @ 25°C,Specific Gravity  @ 25°C,Boiling Point @ 760 mm Hg,Flash Point,Solid Content (Bake 1.0g for 30mins @ 190°C),"Static Coefficient of Friction
+0.05-0.21 : High Slip
+0.215-0.405 : Mediup Slip
+0.41-0.5 : Low Slip","Fineness (GR), µm
+(Determine using Grind Gauge)",Diluent,Special Function,Product Features,Binder,Solvent,Additive,Press Performance,"Adhesion
+(Tested with 3M Scotch tape no. 600)",Lamination Strength,Surface Slip,Solvent Release,Odour,Flexibility,Gloss,Leveling,Transparency,Migration,Blocking Resistance,Solvent Resistance,Oil Resistance,Heat Resistance,Heat Seal Resistance,Heat Release,Boil and retort resistance,Deep-freeze resistance,Water Resistance,Scratch resistance,"Rub Resistance
+<100 rubs : Poor
+100-200 rubs : Good
+>200 rubs : Excellent","Light Resistance
+1-3 : Poor
+4-6 : Good
+7-8 : Excellent","Acid Resistance
+1-2 : Poor
+3-4 : Good
+5 : Excellent","Alkali & Detergent Resistance
+1-2 : Poor
+3-4 : Good
+5 : Excellent","Static Resistance, ohm/square",Fat Resistance,Rust Resistance,Foaming,VOC,Drying,Printing speed,Hardness,Transfer properties,Substrate 1,Substrate 2,Substrate 3,Substrate 4,Substrate 5,Substrate 6,Colour 1,Colour 2,Colour 3,Colour 4,Colour 5,Colour 6,Colour 7,Colour 8,Colour 9,Colour 10,Colour 11,Colour 12,Colour 13,Colour 14,Precaution,Shelf life (Room ambiance),Recommendations,Date Prepared,Status
+0.7963129,Gravure,Surface,4-1780 L/S OPV,VARNISH,0,Alcohol Based,"Undiluted
+4(J)= 8 - 12s",,,,,,,,"91
+IPA : EA",Surface overprint varnish to reduce slip and gloss level,Solvent-based overprint varnish specially formulated for gravure printing on treated LDPE film,,IPA,,,Good,,Anti-slip,,,,Increase,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,,,,01/11/2012,
+0.6869907,Flexo / Gravure / Roller Coater,Surface & Inline,4-1849 OPV,VARNISH,0,Water-based,"Undiluted
+4(J)= 17 - 23s",7.8 - 8.8,,,,38 - 42%,Static : 0.4,,Water,"Primer for UV coatings, double-sided printing",High-gloss water-based OPV for double-sided printing.,,Water,,,,,,,,,70 - 75%,,,,,,,140°C,,,,,,,Good,,,,,,,,,Medium-Fast,,,,Paper,Paperboard,Coated Papers,Treated films,,,,,,,,,,,,,,,,,,12 months,"1. Double Sided
+2. Minimum back up time : 120 mins
+3. Minimum Substrate Grammage : 115 gsm
+4. Glueable : Yes
+5. Foil Blockable : Yes
+6. UV Varnishable : Yes
+7. Film Weight : 3-5 gsm wet",19/07/2013,
+0.3355198,Flexography / Gravure / Roller Coater,Surface & Inline,4-1850 OVERPRINT WATER-BASED MATT VARNISH,VARNISH,0,Water-based,"Undiluted
+4(J)= 14 - 20s",7.8 - 8.8,,,,30 - 40%,0.4 - 0.47,,Water,Matt finish for double-sided applications,Matt emulsion water-based varnish for  double-sided applications,Acrylic emulsion,Water,,,,,Low,,,,5 - 20%,,,,,,,140°C,,,,,,,Good,,,,,,,,,Medium-Fast,,,,Paper,Paperboard,Coated Papers,Treated films,,,,,,,,,,,,,,,,,,,"1. Double Sided
+2. Minimum back up time : 120 mins
+3. Minimum Substrate Grammage : 115 gsm
+4. Glueable : Yes
+5. Foil Blockable : Yes
+6. UV Varnishable : Yes
+7. Film Weight : 3-5 gsm wet",19/07/2013,
+0.0936632,Gravure,Surface,APE,INK,1,Solvent-based,"Undiluted
+4(J)= 15 - 30s",,,,,,,,"631
+Toluene : IPA : EA",,For treated PE film,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,,,,Good,Good,,,,,,,,,,,,,Good,,,,Good,,,,,,Quickly with excellent non-blocking characteristics,,,,Treated PE film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion
+2. Not recommended for laminating job, heat sealing or packaging of oily products",,,01/08/2003,
+0.3702001,Gravure,Surface & Reverse,CCST,INK,6,Solvent-based,"Undiluted
+4(J)= 15 - 30s",,,,,,,<10,"631
+Toluene : IPA : EA",,For cellophane film,Nitrocellulose resin,Co-Solvent,,,Good after lamination,,,Good,Low,Good,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,Plain cellophane,Moisture-proof cellophane,K-Type Cellophane,Twist-wrap paper,,,,,,,,,,,,,,,,,,,,22/11/2024,
+0.7562565,Gravure,Surface,CCST 4-0800 (GNC 8863) OVERPRINT VARNISH,VARNISH,1,Solvent-based,"Undiluted
+3(US) / 4(J)= 25 - 30s
+
+Diluted
+2(US) / 3(J)= 20 - 25s",,,,,,,,"631
+Toluene : IPA : EA",Promotes gloss and provides surface protection,"Excellent gloss; chemical and physical protection against detergents, fats, alkali, rubbing, freezing, and heat",,Co-Solvent,,,,,,,,,Promote,,,,,,,Promote,,,,Promote,,,Promote,,,Promote,,Promote,,,,,,,,Paper,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.7597082,Gravure,,CCST/VK,INK,,Solvent-based,"Undiluted
+4(J)= 15 - 30s",,,,,,,<10,"631
+Toluene : IPA : EA",,For cellophane film,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0.9704840,Gravure,Surface,CCST (TF),INK,3,Solvent-based,"Undiluted
+4(J)= 15 - 30s",,,,,,,<10,"631
+n-Propanol : EA : Methoxyisopropanol",,Excellent printability & low odour for paper & cardboard (especially in cigarete packaging),Nitrocellulose resin,Co-Solvent,Polyethylene wax,Good,,,,Good,Low,Good,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,Paper,"Cardboard
+(Cigarette packaging)",Aluminium foil,,,,,,,,,,,,,,,,,,"1. Aluminium film to be treated/primed prior printing
+2. Compulsory of heater and blower (prevent trapping of moisture on ink film)",,,09/09/2016,Active
+0.9363079,Gravure,Surface,CPP,INK,2,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,Toluene,,Excellent Electrical resistivity & adhesion for untreated PP and LDPP film,Cyclized thermoplastic resin,Toluene,Polyethylene wax,Good,Good,,,,,,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Untreated PP film,LDPP film,,,,,110 Geranium,160 Geranium,200B Transparent Yellow,210A Lemon Yellow,250B Medium Yellow,300B Bronze Red,390 Blue,540 Vermillion,620 White,790B Green,820B Violet,920 Black,G.M. Gold Medium,,Not recommended for laminating job,,,08/04/2004,
+0.7882335,Gravure,Surface,DOF,INK,1,Solvent-based,,,,,,,,,"532
+N-propanol : Methoxyisopropanol : EA",,Good print low odour for aluminium foil,Nitrocellulose resin,Alcohol,Pigment : Dyestuffs,Good,,,,,,,,,Good,,,Poor,,,,,,,Fair,,Poor,Poor,,Poor,,Poor,,,,,,,,Aluminium foil,,,,,,,,,,,,,,,,,,,,"1. Incompatible with co-solvent (Toluene:IPA:EA)
+2. Compulsory of heater and blower (prevent trapping of moisture on ink film)
+3. Aluminium film to be treated/primed prior printing",,"1. Better adhesion, use SEIKA 4100M to prime substrate",01/08/2003,
+0.2904033,Gravure,Surface & Reverse,GNC,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Excellent printability & less residual solvent for cellophane substrate,Nitrocellulose & Polyamide resin,Co-Solvent,Polyethylene wax,Good,Good,,,Good,Low,Good,,,,,,,,90°C,,,,,,,,,,,,,,,,,,,,Plain cellophane,,,,,,11A Geranium,16 Geranium,21 Lemon Yellow,22 Transparent Yellow,23 Yellow,24 Medium Yellow,30 Bronze Red,39 Blue,50 Orange,53 Orange,61 White,79 Green,92 Black,G.M. Gold Medium,,,,01/08/2003,
+0.9376192,Gravure,Surface,HLPPE,INK,2,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Can be used for both treated and also untreated PP and LDPE/HDPE film,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,Excellent,,,Good,Moderate,,,,,,,,,,,,,,,,,,,,,,,Quickly with excellent non-blocking characteristics,,,,Treated PP,Untreated PP,LDPE,HDPE,,,110 Geranium,160 Geranium,230 Yellow,300 Bronze Red,390 Blue,611 White,790 Green,822 Violet,920 Black,G.M. Gold Medium,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,22/11/2012,
+0.4349041,Gravure,Surface,KJ,INK,1,Solvent-based,,,,,,,,,"631
+Toluene : IPA : EA",,For machine glazed paper,Nitrocellulose resin,Co-Solvent,Polyester Plasticizer,Good,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Must conduct confirmatory test to determine final suitability for specific end uses.,,,21/05/2015,
+0.6052025,Gravure,Surface,OH,INK,0,Solvent-based,"Undiluted
+5(J)= 9s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Specially formulated for U.C Gravure Sdn Bhd on decorative paper,Nitrocellulose resin,Co-Solvent,Polyester Plasticizer,Good,,,,,,,,,,,,Good,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Must conduct confirmatory test to determine final suitability for specific end uses.,,,03/04/2017,
+0.8680451,Gravure,Surface,PAL,INK,2,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"Slow Solvent = 70:30
+N-Propanol : EA
+
+Standard Solvent = 50:50
+N-Propanol : EA
+
+Fast Solvent = 30:70
+N-Propanol : EA",,Alcohol-based ink for treated LDPE and HDPE film,,Co-Solvent,,Good,Good,,,,,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"1. For slow and super slow solvent, drying or curing condition must be in good condition to prevent blocking in rewinding roll.
+2. Poor adhesion if treatment not within 38-42 dynes/cm.
+3. Not recommended for lamination job and packaging of oily products.",,,19/06/2024,
+0.5650340,Gravure,Surface,PE,INK,5,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,For treated LDPE film,Polyamide resin,Co-Solvent,,Excellent,Excellent,,,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"1. Not recommended for laminating job, heat sealing or packaging of oily products
+2. Surface treatment at 38-40 dynes/cm for good adhesion",,,16/05/2016,
+0.1342567,Gravure,Surface,PE 612 White,INK,N/A,Solvent-based,"Undiluted
+4(J)= 20±5s",,,,,,0.4 - 0.5,<10,"631
+Toluene : IPA : EA",,For treated LDPE film,,,,,Good,,,,,,,,,,,,,<90°C,,,,,,Good,,7 - 8,,4,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"1. Not recommended for laminating job, heat sealing or packaging of oily products
+2. Surface treatment at 38-40 dynes/cm for good adhesion",,,N/A,
+0.5861797,Gravure,Surface,PE/AR,INK,0,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,High speed printing for treated LDPE/LLDPE film,,Co-Solvent,,Good,,,,,,,,,,,,,Good,,Good,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Not recommended for laminating job, heat sealing or packaging of oily products
+2. Surface treatment at 38-40 dynes/cm for good adhesion and good oil resistance
+3. Not recommended for lamination job ",,,01/12/2021,Active
+0.8644458,Gravure,Surface,PEO,INK,6,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,For treated LDPE/LLPDE film for packaging of oily products,Nitrocellulose & Polyamide resin,Co-Solvent,Polyethylene wax,,Excellent,,,,,Good,Good,,,,,,Good,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated LLDPE film,,,,,,,,,,,,,,,,,,,"1. Not recommended for heat sealing and laminating jobs.
+2. Surface treatment at 38-40 dynes/cm for good adhesion",,,03/01/2025,
+0.9337453,Gravure,Surface,PES,INK,3,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,For treated LDPE/HDPE film,,Co-Solvent,,Excellent,Excellent,,Excellent,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"1. Not recommended for laminating job, heat sealing or packaging of oily products",,,18/03/2024,
+0.2057830,Gravure,Surface,PETM,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,For treated LDPE film,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,"1. Not recommended for heat sealing, laminating jobs or packaging of oily products.
+2. Surface treatment at 38-40 dynes/cm for good adhesion",,,01/08/2003,
+0.8764211,Gravure,Surface,PHG,INK,1,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,For treated LDPE/HDPE film,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,Excellent,,,Good,Moderate,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"Not recommended for heat sealing, laminating jobs or packaging of oily products.",,,23/05/2016,
+0.3504573,Gravure,Surface,PLT,INK,0,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,For low corona treated PP or LDPE/HDPE film,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,Excellent,,,,Moderate,,,,,,,,,,,,,,,,,,,,,,,,,,,Low treated PP film,Low treated LDPE film,Low treated HDPE film,,,,,,,,,,,,,,,,,,"1. Low corona treatment film = 36 - 38 dynes/cm
+2. Untreated = <36 dynes/cm
+3. Not recommended for heat sealing, laminating jobs or packaging of oily products.",,,22/11/2018,
+0.4076910,Gravure,Surface,PMG,INK,9,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,For treated LDPE/HDPE film,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,Excellent,,,Good,Moderate,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,18/03/2024,
+0.6945895,Gravure,Surface,PMG 6-2170 White,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,High opacity for treated and untreated PP or LDPE/HDPE film,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,Excellent,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated PP film,Untreated PP film,Treated LDPE film,Untreated LDPE film,Treated HDPE film,Untreated HDPE film,,,,,,,,,,,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,02/07/2018,
+0.3126378,Gravure,Surface,PMG G.M. Gold Medium,INK,1,Solvent-based,4(J) = 15 - 25s @ 25°C,,0.8 - 0.9,,,,,<10,"631
+Toluene : IPA : EA",,Reduce colour strength of PMG Ink Series for treated and untreated PP or LDPE/HDPE film.,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,Excellent,,,Good,Moderate,,,,,,,,,,,,,,,,,,,,,,,Quickly with excellent non-blocking characteristics,,,,Treated PP film,Untreated PP film,Treated LDPE film,Untreated LDPE film,Treated HDPE film,Untreated HDPE film,,,,,,,,,,,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,01/08/2003,
+0.7324947,Gravure,Surface,PMG 4-1229 MATT MEDIUM,VARNISH,1,Solvent-based,,,,,,38 ± 2.0%,,,"631
+Toluene : IPA : EA",Enhances matt appeareance,Cloudy yellow matt medium solvent-based varnish for surface printing,Polyamide resin,Co-Solvent,,Good,Good,,,,,,Increae matting effect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Good adhesion and heat sealing properties = Surface treatment 38-40 dynes/cm.,,,30/12/2024,
+0.4054449,Gravure,Surface,PMG (HS),INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",, Heat sealing for treated HDPE film,Modified Co-polymer resin,Co-Solvent,Polyethylene wax,Excellent,Good,,,,,Good,Good,,,,,,,,Good,,,,,Good,,,,,,,,,,Quickly with excellent non-blocking characteristics,,,,Treated HDPE film,,,,,,,,,,,,,,,,,,,,"1. Good adhesion and heat sealing properties = Surface treatment 38-40 dynes/cm.
+2. Not recommended for laminating job, deep- freezing or packaging of oily products.
+3. Not to use following solvent ratio as diluent = 7:3 (Toluene:IPA)",,,01/08/20033,
+0.0757394,Gravure,Surface,PMG/AR,INK,0,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,High speed printing for treated Cast Polypropylene (CPP) or LDPE/HDPE film,Nitrocellulose & Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,Excellent,,,Good,Moderate,,,,,,,,,,,,,,,,,,,,,,,,150 - 180 m/min,,,Treated CPP film,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,29/08/2022,
+0.3150512,Gravure,Reverse,POLY-PET,INK,11,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"532
+Toluene : MEK : IPA",,Lamination job  for treated PET and nylon film. Can be used as two component sytem with out hardener (D-Hardener),Modified Polyurethane resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,Good on dry lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated PET film,Nylon film,,,,,,,,,,,,,,,,,,,Lamination must be 24 hours after printing,,"If use on OPP film, additive is required.",29/09/2022,
+0.0171002,Gravure,Surface,POLY-PET 4-2305 MATT VARNISH,VARNISH,0,Solvent-based,"Undiluted
+4(J)= 10 - 20s",,,,,,,,"631
+Toluene : MEK : Ethyl acetate",Provides matte finish with good adhesion and heat seal resistance,"Cloudy solvent-based matt varnish, promotes adhesion and flexibility, compatible with D-hardener for treated PET and nylon film",Polyurethane resin,Co-Solvent,,Good,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,Treated PET film,Nylon film,,,,,,,,,,,,,,,,,,,Matt varnish cannot be stored after adding hardener.,,,26/06/2018,
+0.9019078,Gravure,Surface,POLY-PET 4-2316 MATT VARNISH,VARNISH,0,Solvent-based,,,,,,,,,"631
+Toluene : MEK : Ethyl acetate",Provides matte finish and good adhesion for PET film,Solvent-based matt varnish for surface printing.,Polyurethane resin,Co-Solvent,,Good,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,Treated PET film,Nylon film,,,,,,,,,,,,,,,,,,,,,,11/06/2021,
+0.2008458,Gravure,,SPVC 4-2693 MATT MEDIUM,VARNISH,1,Solvent-based,"Undiluted
+4(J)= 15 - 25s",,,,,,,,"631
+Toluene : IPA : EA",Provides matt surface finish for shrinkable PVC films,Milky viscous solvent-based matt medium for SPVC film.,Modified Co-polymer resin,Co-Solvent,Polyethylene wax,Good,,,,Fast,Low,Good,Matt effect,,,,,,,,,,,,,,,,,,,,,,,,,,,SPVC film,,,,,,,,,,,,,,,,,,,,,,,18/11/2024,
+0.9944879,Gravure,Reverse,POLY/NM,INK,0,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"532
+Toluene : MEK : Ethyl acetate",,Lamination job  for treated PET and nylon film. Can be used as two component sytem with out hardener (D-Hardener),,,,Excellent,Excellent,Good on dry lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lamination must be 24 hours after printing,,"If use on OPP film, additive is required.",15/01/2024,
+0.1551180,Gravure,Reverse,Poly-AP,INK,1,Solvent-based,,,,,,,,,"631
+Toluene : IPA : EA",,Low odour for Dry lamination using treated OPP,Nitrocellulose resin,Co-Solvent,Dyestuffs,,,,,,,,,,,Yes,,Poor,,,,,,,Fair,,,1-3,,1-2,,Poor,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Not recommended for extrusion lamination
+2. Poor lamination bonding strength than normal pigmented OPP/PP inks",,,01/08/2003,
+0.0903066,Gravure,Reverse,PUV,INK,0,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"532
+Toluene : MEK : Ethyl acetate",,Lamination job for treated PET,Modified polyurethane resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,Good,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated PET film,,,,,,,,,,,,,,,,,,,,Lamination must be 24 hours after printing,,,29/03/2019,
+0.4600926,Gravure,Reverse,R-PET,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"532
+Toluene : MEK : Ethyl acetate",,PU based ink for treated PET and nylon film suitable for retort application,,,,Excellent,Excellent,Good for both extrusion & adhesive lamination,,Good,Low,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lamination must be 24 hours after printing,,,01/10/2019,
+0.3760324,Gravure,Reverse,PET-CR,INK,1,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<5,"532
+Toluene : MEK : Ethyl acetate",,Lamination job  for treated PET and nylon film. Can be used as two component sytem with out hardener (D-Hardener),,Co-Solvent,,Excellent,Excellent,Good on dry lamination,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated PET film,Treated Nylon film,Treated OPP film,,,,,,,,,,,,,,,,,,Lamination must be 24 hours after printing,,"If use on OPP film, additive is required.",16/09/2022,
+0.0156794,Gravure,Reverse,PET-OD,INK,1,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"433
+Toluene : MEK : Ethyl acetate",,Lamination job  for treated PET and nylon film. Can be used as two component sytem with out hardener (D-Hardener),,Co-Solvent,,Excellent,Excellent,Good on dry lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,300 - 320 m/min,,,Treated PET film,Treated Nylon film,,,,,,,,,,,,,,,,,,,Lamination must be 24 hours after printing,,"If use on OPP film, additive is required.",07/12/2022,
+0.4912707,Gravure,Reverse,PETO,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : MEK : EA",,Lamination job  for treated PET and nylon film. ,,Co-Solvent,,Good,Good,Good,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Lamination must be 24 hours after printing.
+2. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion",,,29/12/2020,
+0.4115456,Gravure,Reverse,PET/PP,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : MEK : EA",,Lamination job for treated Polyester,,Co-Solvent,,Excellent,Good,,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Lamination must be 24 hours after printing.
+2. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion",,,01/08/2003,
+0.9503303,Gravure,Reverse,SPVC,INK,4,Solvent-based,,,,,,,,,"631
+Toluene : IPA : EA",,For SPVC film,Acrylics & Nitrocellulose / CAB resins,Co-Solvent,,Good,,,,Fast,Low,Good,Moderate,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated SPVC film,,,,,,161 Process Magenta,231 Process Yellow,393 Blue,616 White,300 Bronze Red,921 Process Black,G.M. Gold Medium,790 Green,820 Violet,,,,,,"1. Not recommended for laminating job, heat sealing or packaging of oily products
+2. Surface treatment 38-40 dynes/cm",,,10/04/2015,
+0.5450842,Gravure,Surface,SLP,INK,1,Solvent-based,,,,,,,,,"631
+Toluene : IPA : EA",,Heat sealing for treated LDPE film with low odour finish,,Co-Solvent,,Good,Good,,,Good,Low,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,Treated LDPE film,,,,,,160 Geranium,230 Yellow,300 Bronze Red,390 Blue,620 White,790 Green,820 Violet,920 Black,G.M. Gold Medium,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion.
+2. Not recommended for laminating job, deep- freezing or packaging of oily products.
+3. EA is compulsory for ink stability during printing.",,,09/01/2012,
+0.8084592,Gravure,Surface,SNT,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Good print performance for treated PE film,Nitrocellulose resin,Co-Solvent,Polyethylene wax,Good,Good,,,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated PE film,,,,,,160 Geranium,230 Yellow,240 Medium Yellow,390 Blue,530 Orange,620 White,790 Green,820 Violet,920 Black,G.M. Gold Medium,,,,,"1. Good adhesion: Surface treatment 38-40 dynes/cm.
+2. Diluted ink must be finished the same day or it will gel after storage.",,,01/08/2003,
+0.9626225,Gravure,Surface,TBC,INK,0,Mixture of alcohol and ester,,,,,,,,,"532
+n-Propanol : EA : BA",,Toluene free ink for paper and cardboard with low odour finish,"Nitrocellulose resin
+Acrylic resin for TBC 2-1265(G) Yellow",Mixture of alcohol and ester,,Good,,,,Good,Low,Good,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,Paper,Cardboard,,,,,,,,,,,,,,,,,,,,,,,
+0.7294502,,Reverse,T-BCE,INK,1,Solvent-based,,,,,,"White colour : 35 ± 2%
+Other colours : 20 ± 2%",,,,,Toluene based PU ink for lamination application,,Toluene,,Excellent,Excellent,Good for both extrusion & adhesive lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated PET film,Treated OPP film,Treated Nylon film,,,,,,,,,,,,,,,,,,"Surface Treatment level:
+1. Treated PET (48-52 dynes/cm)
+2. Treated OPP (38-42 dynes/cm)
+3. Nylon (48 - 56 dynes/cm)",,,01/06/2020,
+0.5767941,Gravure,Reverse,VP,INK,0,Solvent-based,"Diluted
+2(US) / 3(J)= 12 - 18s",,,,,,,,"Standard Solvent = 631
+Toluene : IPA : EA
+
+Slow Solvent = 65:20:10:5
+Toluene : IPA : EA : Slow solvent
+
+Super Slow Solvent = 65:15:10:10
+Toluene : IPA : EA : Slow solvent",,Lamination job for treated PET and SPVC film,,,,Excellent,Excellent,Good for both extrusion & adhesive lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Lamination must be 24 hours after printing.
+2. For slow and super slow solvent, drying or curing condition must be in good condition to prevent blocking in rewinding roll.",,,22/11/2018,
+0.9991496,Gravure,Surface,TH,INK,1,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+5(J)= 9s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,Low odour ink for decorative paper,Nitrocellulose resin,Co-Solvent,Polyester plasticizer,Good,,,,,,,,,,,,Good,,Good,,,,,,,,,,,,,,,,,,,,Decorative paper,Simili,,,,,,,,,,,,,,,,,,,,,,03/04/2017,
+0.4278501,Gravure,Surface,TH 64 Blue,INK,0,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Low odour ink for decorative paper,Nitrocellulose resin,Co-Solvent,Polyester plasticizer,Good,,,,,,,,,,,,Good,,Good,,,,,,,,,,,,,,,,,,,,Decorative paper,,,,,,,,,,,,,,,,,,,,,,,03/04/2017,
+0.6062858,Gravure,Surface,TWMC,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Specially formulated for Metallized Cellophane for twist wrapping,Polyamide resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,,,,,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Metallized Cellophane,,,,,,,,,,,,,,,,,,,,Not recommended for heat sealing job,,,01/08/2003,
+0.5761389,Gravure,Surface,TWPC,INK,4,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,For twistable PE and PET films,Modified Co-polymer resin,Co-Solvent,Polyethylene wax,Excellent,,,,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Not recommended for lamination job, heat sealing or packaging of oily products",,,02/01/2025,
+0.3533999,Gravure,Surface,TWPC 4-0762 O/P VARNISH,VARNISH,2,Solvent-based,"Diluted
+4(J)= 9 - 15s ",,,,,,,,"631
+Toluene : IPA : EA",Overprint varnish for twist wrapping films,Twist wrapping solvent-based varnish for PVC and cellophane film,Modified Co-polymer resin,Co-Solvent,Polyethylene wax,Excellent,,,,,,Good,Good,,,,Good,,,,,,,,,Good,,,,,,,,,,Fast,,,,PVC film,Cellophane film,,,,,,,,,,,,,,,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,02/01/2025,
+0.4325424,Gravure,Surface,TWPP,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Specially formulated for treated polypropylene  used for twist-wrap packaging,Polyamide and Nitrocellulose resins,Co-Solvent,Polyethylene wax,,Good,,,Yes,Low,Good,Good,,,,,,,,,Fair,,,,,,,,,,Fair,,,,,,Good,,Treated PP film,,,,,,,,,,,,,,,,,,,,"1. Sufficient resistance against heat and oil cannot be obtained without addition of hardener
+2. Keep hardener away from water and moisture and should be added in the exact recommended value
+3. Ink with added hardener is to be used within 24 to 48 hours, or else it will become more viscous and finally gel.
+4. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range)
+5. Not recommended for lamination job.",,,01/08/2003,
+0.0947999,Gravure,Surface,TWPV,INK,1,Solvent-based,,,,,,,,,"631
+Toluene : IPA : EA",,Specially formulated for treated PVC film for twist-wrapping,Modified Co-polymer resin,Co-Solvent,,Excellent,Excellent,,,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated PVC film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion.
+2. Not recommended for lamination job,heat sealing or packaging of oily products.",,,01/08/2003,
+0.3269678,Gravure,Surface,LDH,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Heat sealing for treated Polyethylene (LDPE) film,Nitrocellulose & maleic reins,Co-Solvent,Polyethylene wax,Good,Good,,,,,Good,Good,,,,,,,,Good,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,Good adhesion: Surface treatment 38-40 dynes/cm.,,,01/08/2003,
+0.8568375,Gravure,Surface,LPE,INK,3,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,For treated PE film,Nitrocellulose & Polyamide resin (1:2),Co-Solvent,Polyethylene wax,Good,Good,,,Good,Low,Good,Good,,,,,,Good,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated LLDPE film,,,,,,,,,,,,,,,,,,,"1. Not recommended for laminating job or heat sealing products
+2. Surface treatment 38-40 dynes/cm
+3. Lamination must be 24 hours after printing.
+4. Packaging of rice",,,17/05/2016,
+0.6837933,Gravure,Surface,LSH,INK,5,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Heat sealing for treated Polyethylene (LDPE) film,Nitrocellulose & maleic reins,Co-Solvent,Polyethylene wax,Good,Good,,,,,,,,,,,,,,"Good (up to 180°C)
+In-house test
+1.Heat-seal pressure: 100kPa
+2. Dwell time: 0.2s
+3. Substrate: LDPE masterbatch 38μm",,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing.",,,28/05/2025,
+0.4629803,Gravure,Surface,LSH 9-2359A BLACK,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ", ,,,,,,,"631
+Toluene : IPA : EA",,Heat sealing with better glossiness for treated Polyethylene (LDPE) film,Nitrocellulose & maleic reins,Co-Solvent,Polyethylene wax,Good,Good,,,,,,,,,,,,,,"Good (up to 140°C)
+In-house test
+1.Heat-seal pressure: 100kPa
+2. Dwell time: 0.2s
+3. Substrate: LDPE masterbatch 38μm",,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",,,28/05/2025,
+0.1973608,Gravure,Surface,LSH 4-1614 OPV,VARNISH,1,Solvent-based,,,,,,,,,"631
+Toluene : IPA : EA",Heat seal overprint varnish for treated LDPE filem,Heat sealing solvent-based varnish for treated LDPE film,,Co-Solvent,,Good,,,,,,,,,,,,,,,"Good (up to 180°C)
+In-house test
+1.Heat-seal pressure: 100kPa
+2. Dwell time: 0.2s
+3. Substrate: LDPE masterbatch 38μm",,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",,,03/05/2012,
+0.7498268,Gravure,Surface,LSH 4-2279 HEAT SEAL VARNISH,VARNISH,0,Solvent-based,"Undiluted
+4(J)= 15 - 20s",,,,,,,,"631
+Toluene : IPA : EA",Heat seal overprint varnish for treated LDPE filem,Yellowish heat sealing solvent-based varnish for treated LDPE film,Nitrocellulose resin,Co-Solvent,,Good,Good,,,,,,,,,,,,,,Good,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",,,14/03/2028,
+0.0881842,Gravure,Surface,LSH 4-2293 MATT VARNISH,VARNISH,0,Solvent-based,"Undiluted
+4(J)= 15 - 25s",,,,,,,,"631
+Toluene : IPA : EA",Heat seal overprint varnish for treated LDPE filem,Yellowish heat sealing solvent-based varnish for treated LDPE film,Nitrocellulose resin,Co-Solvent,,Good,Good,,,,,,,,,,,,,,Good,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",,,16/04/2018,
+0.8612002,Gravure,Surface,LSH 4-2298 OPV GLOSS VARNISH,VARNISH,0,Solvent-based,"Undiluted
+4(J)= 14 - 16s",,,,,,,,"631
+Toluene : IPA : EA",Glossy heat seal overprint varnish for treated LDPE filem,Cloudy white heat sealing solvent-based varnish for treated LDPE film,Nitrocellulose resin,Co-Solvent,,Good,Good,,,,,,,,,,,,,,Good,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",,IPA can be replaced by Methyl Ethyl Ketone (MEK) for better solubility and printability,04/05/2018,
+0.1576494,Gravure,Surface,LSH 4-2318 OPV GLOSS VARNISH,VARNISH,0,Solvent-based,"Undiluted
+4(J)= 14 - 16s",,,,,,,,"631
+Toluene : IPA : EA",High gloss and slip varnish properties for treated LDPE film,Cloudy white High gloss and slip varnish properties for treated LDPE film,Nitrocellulose resin,Co-Solvent,,Good,Good,,,,,,,,,,,,,,Good,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",,IPA can be replaced by Methyl Ethyl Ketone (MEK) for better solubility and printability,04/07/2018,
+0.9897090,Gravure,Surface,LSH 4-2486 MATT VARNISH,VARNISH,0,Solvent-based,,,,,,,,,"631
+Toluene : MEK : EA",Matt overprint varnish providing matt and protective finish,Matt solvent-based varnish for treatd LDPE film,Nitrocellulose resin,Solvent,,Good,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",, ,01/06/2022,
+0.5598652,Gravure,Surface,LSH/AR,INK,0,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<10,"631
+Toluene : IPA : EA",,Heat sealing for treated Polyethylene (LDPE) film,Nitrocellulose resin,Co-Solvent,,Good,Good,,,,,,,,,,,,,,Good,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",,,.,
+0.2957452,Gravure,Surface,LSH/IP,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,0.3 - 0.55,,"631
+Toluene : IPA : EA",,"Heat sealing for treated Polyethylene (LLDPE) film
+Mixture of 70% CCST and 30% PE ink",,Co-Solvent,,,Good,,,,,,,,,,"Good
+1kg, 60°C, 24 hours
+Ink to Ink
+Ink - Substrate (Treated)",,,,"Good (up to 160°C)
+In-house test
+1.Heat-seal pressure: 490kPa
+2. Dwell time: 0.8s
+3. Substrate: Untreated LDPE masterbatch 38μm",,,,,Good,,,,,,,,,,,,,,Treated LLDPE film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Not recommended for lamination job and packaging of deep-freezing products.
+3. EA is compulsory for ink stability during printing",,,27/05/2024,
+0.1663770,Gravure,Surface & Reverse,MBF,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Specially formulated for mobil films that results in excellent printability and less residual solvent,Nitrocellulose resin,Co-Solvent,Polyethylene wax,Good,Good (after lamination),,,Good,Low,Good,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,Mobil film,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.2730070,Gravure,Surface,NEPTUNE,INK,0,Water-based,Ready to use,,,,,,,,Water,,For polyolefin & corona treated biodegradable film,Styrene-acrylic resin,"Water, Amine, Alcohol",Wax & Antifoaming agent,,,,,Good,Low,,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated Polyolefin film,Treated Biodegradable film,,,,,,,,,,,,,,,,,,,"1. Surface treatment 38-40 dynes/cm
+2. DO NOT USE ORGANIC SOLVENTS FOR DILUTION
+3. Mix well before use",,,10/01/2025,
+0.1331758,Gravure,Reverse,NTM-CR,INK,0,Solvent-based,"Diluted
+2(US) / 3(J)= 12 - 18s",,,,,,,,"Standard Solvent = 5:4:1
+Slow Solvent = 55:30:10:5
+Super Slow Solvent = 55:25:10:10",,Non-Toluene Non-MEK ink for treated PET film for lamination job,,,,Excellent,Excellent,Good for both extrusion & adhesive lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,210 - 250 m/min,,,Treated PET film,,,,,,,,,,,,,,,,,,,,"1. For slow and super slow solvent, drying/curing condition must be in good condition to prevent blocking in rewinding roll
+2. Lamination must be 24 hours after printing",,,07/12/2022,
+0.2005877,Gravure,Reverse,NTM-PET,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 12 - 18s",,,,,,,,"Standard Solvent = 5:4:1
+Slow Solvent = 55:30:10:5
+Super Slow Solvent = 55:25:10:10",,Non-Toluene Non-MEK ink for treated PET film for lamination job,,,,Excellent,Excellent,Good lamination strength on lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated PET film,,,,,,,,,,,,,,,,,,,,"1. For slow and super slow solvent, drying/curing condition must be in good condition to prevent blocking in rewinding roll
+2. Lamination must be 24 hours after printing",,,22/11/2022,
+0.8884636,Gravure,Surface,NTM-PET 4-2670 MATT VARNISH,VARNISH,0,Solvent-based,,,,,,,,,"631
+N-Propyl Acetate : EA : IPA",Non-Toluene non-MEK Matt varnish for treated PET  film,Non-Toluene non-MEK solvent-based matt varnish for treated PET  film,,,,Good,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1. EA is compulsory for ink stability during printing.,,,01/12/2022,
+0.3809304,Gravure,Reverse,NTM-BCE,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 12 - 18s",,,,,,,,,,"Non-Toluene Non-MEK ink for treated PET,OPP and Nylon film for lamination job",,,,Excellent,Excellent,Good for both extrusion & adhesive lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated PET film,Treated OPP film,Nylon film,,,,Geranium,Yellow,Orange,Blue,Green,Violet,Black,White,,,,,,,"1. For slow and super slow solvent, drying/curing condition must be in good condition to prevent blocking in rewinding roll
+2. Lamination must be 24 hours after printing
+3. Surface Treatment:
+PET : 48 - 52 dynes/cm
+OPP : 38 - 42 dynes/cm
+
+Handling
+1. Solvent based inks are combustible and highly flammable. Precautionary steps should be taken to prevent electrostatic charges from building up and subsequently discharge them.
+2. All solvent-based inks are with few exceptions are hazardous and special safety measures should be taken. Normal Industrial Hygiene and safety precautions must be observed and any form of pollution avoided.
+3. Shelf-life of inks in original sealed container is six months. Inks are recommended to store at room temperature and keep container tightly closed.
+Please refer SDS for more details.
+4. Only suitable for use on the non-food contact side of food packaging.",,"D-Hardener
+To be added to last or all colours (based on requirement), 3% to the total quantity of ink, to enhance the bonding strength and resistance properties as below;
+1. For films where treatement level is slightly below recommended levels.
+2. Long Shelf Life of packaged products
+3. Post-sterilization of packaged products
+4. For retort application and boil in bag application",01/06/2020,
+0.6707292,Gravure,Surface & Reverse,TWC,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 12 - 18s",,,,,,,,"631
+Toluene : IPA : EA",,"Excellent printability and less residual solvent for plain and moisture-proof cellophane.
+Surface printing for paper substrate only.",Nitrocellulose and polyamide resin,Co-Solvent,Polyethylene Wax,Excellent,Good,,,,,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not recommended for heat sealing job.,,,,
+0.9200639,Gravure,Suface,UFP,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : IPA : EA",,Good deep-freeze resistance for treated Polyethylene (LDPE / HDPE) film,Polyamide resin,Co-Solvent,Polyethylene Wax,Excellent,Good,,,,,Good,Good,,,,,,,,,,,Good,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Surface treatment must be within 38 - 40 dynes/cm to achieve good adhesion and also deep-freeze properties
+2. Not recommended for lamination job, heat sealing and packaging oily products.",,Ink can withstand temperature of 0°C - 20°C,01/08/2003,
+0.9647201,Gravure,Reverse,OPP/CR,INK,0,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<5,SB 36 : SE 39,,Minimum solvent residue for treated OPP film for lamination job,,Co-Solvent,,Excellent,Good,Good for both extrusion & adhesive lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion
+2. Lamination must be 24 hours after printing",,,03/11/2022,
+0.8742118,Gravure,Reverse,OPP/PP,INK,6,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<5,"631
+Toluene : MEK : Ethyl acetate",,Lamination job for treated OPP film,Modified Co-polymer resins,Co-Solvent,,Excellent,Excellent,Outstanding for both extrusion & adhesive (dry) lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion
+2. Lamination must be 24 hours after printing",,,27/06/2024,
+0.5408927,Gravure,Reverse,OPP/PP 6-0961 FLUORESCENT PINK,INK,1,Solvent-based,,,,,,,,,"631
+Toluene : IPA : EA",Fluorescent color effect,"• Bright fluorescent pink tone
+• Good printability
+• Suitable for reverse printing on treated OPP film
+• Limited lamination strength",Modified Co-polymer resins,Co-Solvent,,,,,,,,,,,,,,Poor,,Poor,,,,,Poor,,,Poor,,Poor,,Poor,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Due to resistance limitation of the pigments used, certain precautionary measures must be taken on the usage of the ink. 
+2. Recommended cell depth to be above 45µm. 
+3. This ink is not recommended for extrusion lamination. 
+4. Please take note that it has poorer lamination bonding strength than normal pigmented OPP/PP inks.",,,01/08/2003,
+0.6309232,Gravure,Reverse,OPP/PP 6-1139 (DNE) WHITE,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : MEK : Ethyl acetate",Suitable for both dry and extrusion lamination,"• Excellent printability
+• Stable adhesion
+• Minimum solvent residue
+• Good lamination strength",Modified Polymer Resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,Good for both extrusion & adhesive lamination,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion
+2. Lamination must be 24 hours after printing",,,01/08/2003,
+0.2129940,Gravure,Reverse,OPP/PP 6-1204 WHITE,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"541
+Toluene : EA : MEK",Suitable for both dry and extrusion lamination,"• Excellent printability
+• Stable adhesion
+• Minimum solvent residue
+• Good lamination strength",Modified Polymer Resin,Co-Solvent,Polyethylene wax,Excellent,Excellent,Good for both extrusion & adhesive lamination,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion
+2. Lamination must be 24 hours after printing",,,01/08/2003,
+0.5822528,Gravure,Reverse,OPP/PP 8-1620 PURPLE,INK,0,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<5,"631
+Toluene : MEK : Ethyl acetate",,Lamination job for treated OPP film,Modified Co-polymer resins,Co-Solvent,,Excellent,Excellent,Outstanding for both extrusion & adhesive (dry) lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion
+2. Lamination must be 24 hours after printing",,,30/11/2012,
+0.1278531,Gravure,Reverse,OPP/PP G.M. Gold Medium,INK,1,Solvent-based,"Undiluted
+4(J)= 16 - 24s",,0.8 - 0.9,,,,,,"631
+Toluene : MEK : Ethyl acetate",,Reduce the colour strenght of OPP/PP Ink Series,Modified Co-polymer resins,Co-Solvent,Polyethylene wax,Excellent,Excellent,Outstanding for both extrusion & adhesive (dry) lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion
+2. Lamination must be 24 hours after printing",,,01/08/2003,
+0.1042963,Gravure,Reverse,OPP/PP 4-2188 MATT VARNISH,VARNISH,0,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,19 ± 3 %,,,"631
+Toluene : MEK : Ethyl acetate",Matt surface finish without lamination,Cloudy white solvent-based matt varnish for treated OPP/PP film without lamination job.,,Solvent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,Surface treatment out of 38-42 dynes/cm causes poor adhesion.,,,03/11/2022,
+0.2086066,Gravure,Reverse,OPP/PP 4-2730 MATT VARNISH,VARNISH,0,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,25 ± 3 %,,,"631
+Toluene : MEK : Ethyl acetate",Matt surface finish without lamination,Cloudy white solvent-based matt varnish for treated OPP/PP film without lamination job.,,Solvent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-42 dynes/cm causes poor adhesion.
+2. This product is not suitable for lamination job.",,,14/11/2023,
+0.9067499,Gravure,Reverse,OPP/OD,INK,0,Solvent-based,"Undiluted
+4(J)= 15 - 30s
+
+Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,<5,"631
+Toluene : MEK : Ethyl acetate",,Lamination job for treated OPP film,,,,Excellent,Excellent,Outstanding for both extrusion & adhesive (dry) lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,210 - 250 m/min,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion
+2. Lamination must be 24 hours after printing",,,07/12/2022,
+0.9329648,Gravure,Reverse,AFP,INK,1,Solvent-based,"Diluted
+2(US) / 3(J)= 18 - 24s ",,,,,,,,"631
+Toluene : MEK : Ethyl acetate",,Lamination job for treated OPP film,,,,Excellent,Excellent,Outstanding for both extrusion & adhesive (dry) lamination,,Good,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment out of 38-40 dynes/cm may cause delamination and poor adhesion
+2. Lamination must be 24 hours after printing",,,18/02/2016,
+0.2364424,,,AFP REDUCER,DILUENT,1,Solvent-based,,,,,,,,,,Standard diluent for AFP ink series,Provides optimal viscosity control and solvent balance for AFP inks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable
+2. Keep away from sources of ignition.
+3. Refer Chemical Safety Data Sheet.",,,18/02/2016,
+0.6653783,Gravure,Surface,WBP,INK,1,Water-based,"Undiluted
+4(J)= 15 - 20s",8.0 - 9.5,0.84 - 0.845,,,,,≤10,Water,,Eco-friendly Waterbased ink for treated LDPE and HDPE films, ,Water,,,,,,,,,,,,,,,,,,,,,,Good,Good,,,,,,,,,,,,Good,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Organic solvents are not recommended.
+3. Not to mix with other water-based inks.",,"1. Printing environment : 5 - 40°C
+2. Humidity : 60 - 80%
+3. Cylinder cell depth : 25 - 35 μm
+4. Drying Temperature : 60 - 75°C",03/09/2019,
+0.6914186,Gravure,Surface,F-OPV 3238 OPV,VARNISH,1,Solvent-based,"Undiluted
+5(J)= 45 - 55s",,,,,,,,"1:1
+MEK : EA",Overprint varnish for foil coating,Yellowish solvent-based varnish for aluminium foil,Nitrocellulose resin,"1:1
+MEK : EA",,,Good,,,,,Good,,,,,,,,,,,,,,Good,Good,,,,,,,,,,,,,Aluminum foil,,,,,,,,,,,,,,,,,,,,,,"1. Dilution : F-OPV 3238 : Diluent = 7 : 3
+
+The weight of the coating is directly proportional to the viscosity.
+Higher viscosity → Higher solids → Thicker coating film.
+Users should adjust printing viscosity to achieve the desired coating weight and finish.",18/09/2018,
+0.3278366,Gravure,Surface,F-OPV 6533 OPV,VARNISH,0,Solvent-based,"Undiluted
+5(J)= 10 - 20s",,,,,,,,"1:1
+MEK : EA",Overprint varnish for foil coating,Yellowish solvent-based varnish for aluminium foil,Nitrocellulose resin,"1:1
+MEK : EA",,,Good,,,,,Good,,,,,,,,,,,,,,Good,Good,,,,,,,,,,,,,Aluminum foil,,,,,,,,,,,,,,,,,,,,,,"1. Dilution : F-OPV 3238 : Diluent = 7 : 3
+
+The weight of the coating is directly proportional to the viscosity.
+Higher viscosity → Higher solids → Thicker coating film.
+Users should adjust printing viscosity to achieve the desired coating weight and finish.",31/10/2018,
+0.4617125,Gravure,Reverse,WB OPP,INK,1,Water-based,"Undiluted
+4(J)= 10 - 20s",8.0 - 9.5,,,,,,≤10,Water,,Eco-friendly Waterbased ink for treated OPP films,,Water,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Good,Treated OPP film,,,,,,,,,,,,,,,,,,,,"1. Poor adhesion if treatment not within 38-42 dynes/cm.
+2. Organic solvents are not recommended.
+3. Not to mix with other water-based inks.
+4. Ensure drying of ink before winding to avoid blocking",,"1. Printing environment : 5 - 40°C
+2. Humidity : 60 - 80%
+3. Cylinder cell depth : 25 - 35 μm
+4. Drying Temperature : 60 - 75°C",03/09/2019,
+0.9184196,Gravure & Flexo,Surface,FLEXHS,INK,4,Alcohol Based,"Undiluted
+4(J)= 15 - 30s",,,,,,,<10,N-Propanol,Heat Sealing,Toluene and MEK free for heat sealing using treated LDPE and HDPE film,Polyamide resin,N-Propanol,Polyethylene Wax,Outstanding,Outstanding,,,,,,,,,,,,,,"Good (up to 120°C)
+In-house test
+1.Heat-seal pressure: 100kPa
+2. Dwell time: 0.2s
+3. Substrate: LDPE masterbatch 38μm",,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range)
+2. Not recommended for lamination or packaging of  oily products",,,28/05/2025,Active
+0.2971296,Flexo,Surface,FLEXHS 41151 OPV,VARNISH,1,Alcohol Based,"Undiluted
+4(J)= 12 - 17s @ 27±2°C",,,,,,,,N-proanol / Acetate,Heat sealable overprint varnish,"Heat sealable yellowish solution alcohol-based OPV for treated Polyolefin, OPP and PET film",,N-propanol / Acetate,,Good,Good,,,,,,,,,,,,,,Good,,,,,Good,Good,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,Surface treatment at 38-42 dynes/cm for good adhesion.,,,07/08/2019,
+0.7276191,Flexo,Surface,FLEXHS 4-2789 OPV,VARNISH,1,Alcohol Based,"Undiluted
+4(J)= 14 - 17s @ 27±2°C",,,,,,Intermediate,,N-proanol / Acetate,Heat sealable overprint varnish,"Heat sealable yellowish solution alcohol-based OPV for treated Polyolefin, OPP and PET film",Nitrocellulose resin,N-propanol / Acetate,,Good,,,,,,,,,,,,,,,Good,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,Surface treatment at 38-42 dynes/cm for good adhesion.,,,11/11/2024,
+0.0019802,Flexo,Surface,FLEXHS 4-2840 OPV,VARNISH,1,Alcohol Based,"Undiluted
+2(US)= 40 - 50s @ 30±2°C",,,,,,>0.4,,Ethanol / Acetate,,Milky solution OPV for heat resistance (90°C) purpose,,Ethanol / Acetate,,Good,Good,,,,,,,,,,Excellent,,,,"Good (up to 150°C)
+In-house test
+1.Heat-seal pressure: 490kPa
+2. Dwell time: 0.8s
+3. Substrate: PE film",,,,,Good,Good,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,Surface treatment at 38-42 dynes/cm for good adhesion.,,,07/08/2019,
+0.5959984,Flexo,Surface,FLX,INK,0,Water-based,,8.4 - 9.0,,,,,,,Water,,Water-based ink for treated HDPE film,,Water,,,Good,,,,,,Good,,,,,,,,Good,,,,Good,Good,Good,,,,,,,Low,Low,,,,,Treated HDPE film,,,,,,160 Geranium,230 Yellow,300 Bronze Red,390 Blue,920 Black,,,,,,,,,,"1. Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+2. Surface treatment at 42-48 dynes/cm for good adhesion
+3. Ink on film has to dry thoroughly by heater and requires aging prior properties testing
+4. Wash all equipment / materials immediately with water as dried ink on plate / anilox roll can damage it.
+5. Shake well before use.
+6. For industrial use only",,,03/02/2012,
+0.5657125,Flexo,Surface,FORTE,INK,0,Water-based,,,,,,,,,Water,,Water-based ink for porous substrates,Styrene-acrylic resin,"Water, Amine, Alcohol",Polyethylene Wax & Antifoaming Agent,,,,,,Low,,,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Not to use any organic solvents for dilution.
+2. Mix well before use",,,10/01/2025,
+0.0672152,Flexo,Surface,AFX,INK,1,Water-based,,,,,,,,,Water,,"Water-based ink for tissue paper, cement-bag, corrugated board or Kraft.",Alkali soluble Co-polymer resin,"Water, Amine, Alcohol",Polyethylene Wax & Antifoaming Agent,,,,,,,,High,,,,,,,,,,,,Good,,Good,,,,,,,Low,,Fast,High,,,Tissue paper,Simili paper,Cement-bag,Corrugated board,Kraft,,120 Red,130 Bronze Red,140 Rhodamine,140 (167) Rhodamine,230 Yellow,350 Ultra Marine Blue,380 Blue,390 Blue,530 Bright Orange,62 White,790 Green,820 Violet,930B Black,970 Black,"Not to use any organic solvents for dilution, otherwise it will cause the ink to gel",,,01/08/2003,
+0.4038665,Flexo,Surface,AFH,INK,1,Alcohol Based,,,,,,,,,n-Propanol,,For treated LDPE and LLDPE films,,n-Propanol,,Good,Good,,,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range).
+2. Not recommended for lamination job, heat sealing or packaging of oily products.",,,18/02/2016,
+0.2601769,Flexo,Surface,FX,INK,6,Water-based,,,,,,,,,Water,,"Economical fast drying water-based ink for tissue paper, cement-bag, corrugated board or Kraft.",Modified Resin,"Water, Amine, Alcohol",Polyethylene Wax & Antifoaming Agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fast,High,,,Tissue paper,Simili paper,Cement-bag,Corrugated board,Kraft,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,,25/01/2018,
+0.5558829,Flexo,Surface,FX 4-2454 GREY,INK,1,Water-based,,,,,,,,,Water,,"Fast drying low foaming water-based ink for tissue paper, cement-bag, corrugated board or Kraft.",,,,,,,,,,,High,,,,,,,,,,,,,,,,,,,,,Low,,Fast,High,,,Tissue paper,Corrugated board,Kraft,,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,,01/03/2021,
+0.9836408,Flexo,Conventional Printing Machine,FX 9-0179 HIGH TEMPERATURE BLACK,INK,0,Water-based,,8.5 - 9.0,,,,,,,Water,High Temperature Resistant (500°C),High Temperature resistant Water-based ink for welding electrode code marking ink,Rosin modified maleic resin,Water,Antifoam agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Welding Electrodes,,,,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,,24/10/2014,
+0.9684018,Flexo,Surface,FX 9-1026 BLACK,INK,1,Water-based,,,,,,,,,Water,Anti-static,Anti-static water-based ink for corrugated board or Kraft,Alkali soluble Co-polymer resin,"Water, Amine, Alcohol",Polyethylene Wax & Antifoaming Agent,,,,,,,,,,,,,,,,,,,,,,,,,,10⁵ to 10⁶,,,,,Fast,High,,,Corrugated board,Kraft,,,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,,01/08/2003,
+0.3945459,Flexo,Surface,FX 9-1027 (64-1407) (433) BLACK (5 MICRON),INK,2,Water-based,,,,,,,,,Water,,"Economical water-based ink for paper, corrugated board or Kraft",Modified Resin,"Water, Amine",Polyethylene Wax & Antifoaming Agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paper,Corrugated board,Kraft,,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,,24/12/2024,
+0.2911900,Flexo,Surface,FX 9-1060 ANTISTATIC BLACK,INK,1,Water-based,"Undiluted
+3(J) = 25 ± 3s",8.5 - 9.2,,,,,,,Water,Anti-static,Anti-static water-based ink for corrugated board or Kraft,Alkali soluble Co-polymer resin,"Water, Amine, Alcohol",Polyethylene Wax & Antifoaming Agent,,,,,,,,,,,,,,,,,,,,,,,,,,10⁵ to 10⁶,,,,,Fast,High,,,Corrugated board,Kraft,,,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,,01/08/2003,
+0.0345233,Flexo,Surface,FX 9-1289 BLACK,INK,1,Water-based,"Undiluted
+4(J) = 22 ± 5s",8.8 - 9.5,,,,,,,Water,Economical,"Water-based ink for tissue paper, cement-bag, corrugated board or Kraft.",Modified Resin,"Water, Amine",Polyethylene Wax & Antifoaming Agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tissue paper,Cement-bag,Corrugated board,Kraft,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,"Specific special properties such as good water resistance, good light-fastness, and etc can be built into our ink upon request",29/03/2019,
+0.4873418,Flexo,Surface,FX 920 BLACK,INK,0,Water-based,"Undiluted
+4(J) = 22 ± 3s",8.8 - 9.5,,,,,,,Water,Economical,"Water-based ink for tissue paper, cement-bag, corrugated board or Kraft.",Modified Resin,"Water, Amine",Polyethylene Wax & Antifoaming Agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,"Specific special properties such as good water resistance, good light-fastness, and etc can be built into our ink upon request",28/09/2018,
+0.6222638,Flexo,Surface,FX - CAR,INK,1,Water-based,"Undiluted
+3(J)/2(US) = 27 ± 5s",8.4 - 9.0,,,,,,,Water,Surface active agent,Water-based ink for treated HDPE film,Alkali soluble Co-Polymer resin,"Water, Amine, Alcohol","Polyethylene Wax ,  Antifoaming Agent & Surface active agent",,Good,,,,,,Good,,,,,,,,,,,,Good,,Good,,,,,,,Low,Low,,,,,Treated HDPE film,,,,,,,,,,,,,,,,,,,,"1. Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+2. Surface treatment of 42-48 dynes/cm for good adhesion.
+3. Ink on film has to dry thoroughly by heater and requires aging prior properties testing.
+4. Wash all equipment / materials immediately with water as dried ink on plate / anilox roll can damage it.
+5. Shake well before use.
+6. For industrial use only.",,Wash all equipment or materials using Toyo Super Anilox Cleaner AR 950 if ink has dried,01/08/2003,
+0.2725797,Flexo,Surface,FXLP,INK,4,Water-based,,,,,,,,,Water,"Coated & un-coated substrates e.g. simili paper, glassine paper, art paper and poster paper",Water-based ink for coated and uncoated substrate,Alkali soluble Acrylic Co-polymer resin,"Water, Amine, Alcohol",Polyethylene Wax & Antifoaming Agent,,,,,,,,Excellent,,,,,,,,,,,,Good,,Good,,,,,,,,,Fast,High,,,Coated simili / glassine / art / poster paper,Uncoated simili / glassine / art / poster paper,,,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the ink to gel
+",,,17/05/2016,
+0.6157328,Flexo,Surface,FXLP G.M Gold Medium,COLOR CORRECTOR,0,Water-based,,,,,,,,,Water,Reduce colour strength for FXLP ink series,Water-based ink for reducing colour strength for FXLP ink series,Alkali soluble Acrylic Co-polymer resin,"Water, Amine, Alcohol",Polyethylene Wax & Antifoaming Agent,,,,,,,,Excellent,,,,,,,,,,,,Good,,Good,,,,,,,,,Fast,High,,,,,,,,,,,,,,,,,,,,,,,"Not to use any organic solvents (except isopropyl alcohol, max 5%) for dilution, otherwise it will cause the medium to gel
+",,,01/08/2003,
+0.1661707,Flerxo,Surface,FXLT,INK,4,Alcohol Based,,,,,,,,,N-propanol,Alcohol based ink for flexo using treated LDPE and LLDPE films,Alcohol-based ink for treated LDPE and LLDPE films,Polyamide resin,Alcohol,Polyethylene Wax,Outstanding,Outstanding,,,,,Good,Excellent,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated LLDPE film,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-42 dynes/cm for good adhesion. (Flaking occurs if out of range).
+2. Not recommended for lamination job, heat sealing or packaging of oily products.",,,09/04/2018,
+0.4487440,Flexo,Surface,FXT,INK,4,Alcohol Based,,,,,,,,,"66:30:4
+IPA : SBP 80/100 : Butyl cellosolve",For Polypropylene Woven Bag,Alcohol-based ink for treated Polypropylene Woven Bag,Polyamide resin,Alcohol,Polyethylene Wax,Good,Good,,,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated PP film,,,,,,,,,,,,,,,,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,14/09/2023,
+0.1771120,Flexo,Surface,HDFLEX,INK,1,Alcohol Based,,,,,,,,,IPA or N-propanol,Alcohol based ink for flexo using treated HDPE film,Alcohol-based ink for treated HDPE film,Polyamide resin,Alcohol,Polyethylene Wax,Outstanding,Outstanding,,,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated HDPE film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range).
+2. Not recommended for lamination job, heat sealing or packaging of oily products.",,,01/08/2003,
+0.9803959,Flexo,Surface,HPFLEX,INK,5,Alcohol Based,,,,,,,,,N-propanol,,Alcohol-based ink for treated PE film,Polyamide resin,Alcohol,Polyethylene Wax,Outstanding,Outstanding,,,,,Good,Excellent,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated PE film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-42 dynes/cm for good adhesion. (Flaking occurs if out of range).
+2. Not recommended for lamination job, heat sealing or packaging of oily products.",,,09/08/2019,
+0.7358998,,,HPFLEX 4-1123 SLOW REDUCER,DILUENT,0,Solvent-based,,,0.901 - 0.904,164 - 177°C,Close cup - 69°C,,,,,Reduces HPFLEX ink's evaporation,Organic solvent designed for slow dry purpose for HPFLEX ink series,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable
+2. Keep away from sources of ignition",,,02/06/2025,
+0.1407145,Gravure & Flexo,Surface,HPFLEX 4-1290 OPV VARNISH,VARNISH,0,Alcohol Based,"Undiluted
+4(J) = 10 - 15s",,,,,,,,Alcohol based solvent,Surface overprint varnish for protection and gloss enhancement,Yellowish alcohol-based varnish for paper and treated polyolefin film,,Alcohol,,,,,Good,Good,,,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Paper,Treated Polyolefin film,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-42 dynes/cm for good adhesion. (Flaking occurs if out of range).
+",,,18/12/2013,
+0.9895668,Flexo,Surface,HPFLEX 6-1125 WHITE,INK,1,Alcohol Based,,,,,,,,,N-porpanol,,Alcohol-based ink for treated PE film,Nitrocellulose resin,Alcohol,Polyethylene Wax,Good,Good,,,,,,,,,,,,,Good,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range).,,,01/08/2003,
+0.9070556,Flexo,Surface,HPFLEX 9-1534A (ANTIRUST) BLACK,INK,2,Alcohol Based,,,,,,,,,4-1495 Reducer,Anti-rust for wood free paper,Alcohol-based ink for wood free paper,Polyamide resin,Alcohol,Polyethylene Wax,Outstanding,,,,,,Good,Excellent,,,,,,,,,,,,,Good,,,,,,,Good,,,,,,,Wood free paper,,,,,,,,,,,,,,,,,,,,,,,18/02/2016,
+0.5340850,Flexo,Surface,HPFLEX 9-2235 BLACK,INK,1,Alcohol Based,,,,,,,,,HPFLEX 4-2032 Reducer,,Alcohol-based ink for wood free paper,Polyamide resin,Alcohol,Polyethylene Wax,Outstanding,,,,,,Good,Excellent,,,,,,,,,,,,,Good,,,,,,,Good,,,,,,,Wood free paper,,,,,,,,,,,,,,,,,,,,,,,19/07/2017,
+0.5770078,Flexo,Surface,LDFLEX / FLEXOPRINT,INK,,Solvent-based,,,,,,,,,Ethanol,,,Polyamide resin,,,Outstanding,Outstanding,,High,,,,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,,
+0.7951195,Flexo,Surface,HPFLEX / FXLT,INK,,Solvent-based,,,,,,,,,N-propanol,,,Polyamide resin,,,Outstanding,,,,,,Good,Excellent,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated PE film,Treated PP film,,,,,,,,,,,,,,,,,,,"Not recommended for laminating job, heat sealing or packaging of oily products",,,,
+0.1164915,Flexo,Surface,EFLEX,INK,1,Alcohol Based,,,,,,,,,N-propanol,,For treated Polyethylene (LDPE and HDPE) films,Polyamide resin,N-propanol,Polyethylene Wax,Outstanding,Outstanding,,,,,Good,Excellent,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range).
+2. Not recommended for lamination job, heat sealing or packaging of oily products.",,,12/11/2018,
+0.7700621,Flexo,Surface,EFLEX 41151 OPV,VARNISH,0,ALcohol Based,"Undiluted
+4(J) = 15 - 20s",,,,,,,,N-propanol / Acetate,Heat sealable overprint varnish,"Yellowish heat sealable alcohol-based varnsih for treated polyolefin, PET and also OPP film",Nitrocellulose resin,N-propanol / Acetate,,Good,Good,,,,,,,,,,,,,,Good,,,,,Good,Good,,,,,,,,,,,,,Treated Polyolefin film,Treated PET film,Treated OPP film,,,,,,,,,,,,,,,,,,Surface treatment at 38-42 dynes/cm for good adhesion.,,,07/08/2018,
+0.0363216,Flexo,Surface,EFLEX 42173 OPV MATT VARNISH,VARNISH,0,ALcohol Based,"Undiluted
+4(J) = 15 - 20s",,,,,,,,N-propanol / Acetate,Heat sealable overprint varnish,"Yellowish heat sealable alcohol-based varnsih for treated polyolefin, PET and also OPP film",Nitrocellulose resin,N-propanol / Acetate,,Good,Good,,,,,,,,,,,,,,Good,,,,,Good,Good,,,,,,,,,,,,,Treated Polyolefin film,Treated PET film,Treated OPP film,,,,,,,,,,,,,,,,,,Surface treatment at 38-42 dynes/cm for good adhesion.,,,08/08/2018,
+0.5989602,Flexo,Surface,EFLEX Process Colour,INK,1,Alcohol Based,,,,,,,,,N-propanol,,For treated Polyethylene (LDPE and HDPE) films,,N-propanol,,Outstanding,Outstanding,,,,,,Excellent,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated LDPE film,Treated HDPE film,,,,,1601 Process Magenta,2301 Process Yellow,3901 Process Cyan,9201 Process Black,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range).
+2. Not recommended for lamination job, heat sealing or packaging of oily products.",,,15/01/2019,
+0.4947287,Flexo,,PSM,INK,1,Alcohol Based,,,,,,,,,"361
+Toluene : IPA : EA",For oleochemical products,For non-woven fabric laminated with PP woven fabric for packaging of oleochemical products,Special Co-polymer,Co-solvent,Polyethylene Wax,,Excellent,,,,,,,,,,,,,,Good,,,,,,Good,,,Good,,,,,,,,,,Non-woven fabric laminated with PP woven fabric,,,,,,,,,,,,,,,,,,,,Not recommended for lamination job,,,11/11/2024,
+0.2802137,Flexo,,PTI,INK,0,Alcohol Based,,,,,,,,,"361
+Toluene : IPA : EA",,For non-woven fabric laminated with PP woven fabric for packaging,Special Co-polymer,Co-solvent,Polyethylene Wax,,Excellent,,,,,,,,,,,,,,Good,,,,,,Good,,,Good,,,,,,,,,,Non-woven fabric laminated with PP woven fabric,,,,,,,,,,,,,,,,,,,,Not recommended for lamination job,,,11/11/2024,
+0.9233234,Flexo,Surface,6-1044 FLEXOPRINT 0001 HS WHITE,INK,2,Alcohol Based,"Undiluted
+4(J) = 17 - 24s",,,,,,<0.2,<10,Ethanol,High Slip,High Slip alcohol based ink for treated PE film,Polyamide resin,Ethanol,,Outstanding,Outstanding,,High,,,Good,Good,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Treated PE film,,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range).
+2. Not recommended for lamination job, heat sealing or packaging of oily products.",,,28/05/2004,
+0.8326775,Flexo,Surface,6-1057 FLEXOPRINT 0004 AS/HR WHITE,INK,2,Alcohol Based,"Undiluted
+4(J) = 18 - 24s",,,,,,>0.3,<10,N-propanol,Anti-slip,Anti Slip alcohol based ink for treated PE film,Nitrocellulose,N-propanol,,Good,Good,,Anti,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,Treated PE film,,,,,,,,,,,,,,,,,,,,Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range).,,,28/05/2004,
+0.5440173,Flexo,Surface,6-1208 FLEXOPRINT WHITE,INK,1,Alcohol Based,,,,,,,<0.2,,Ethanol,High Slip,High Slip alcohol based ink for treated PE film,Polyamide resin,Ethanol,,Outstanding,Outstanding,,High,,,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Surface treatment at 38-40 dynes/cm for good adhesion. (Flaking occurs if out of range).
+2. Not recommended for lamination job, heat sealing or packaging of oily products.",,,01/08/2003,
+0.8261582,Offset / Roller Coater,Surface & Inline,AQUACOAT 100 VARNISH,VARNISH,1,Water-based,"Undiluted
+4(J) = 15 - 25s",8.5 - 9.2,0.92 - 1.02,,,41 - 43%,,,Water,,Milky water-based varnish for paper or paperboard,Acrylic Co-polymer,Water,,,,,,,,,High,High,,,,,,,,,,,,,,,,,,,,Low,,Fast,,Good,Good,Paper,Paperboard,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.3768553,Roller Coater,Surface & Inline,AQUACOAT 103 VARNISH,VARNISH,1,Water-based,"Undiluted
+4(J) = 20 - 26s",8.5 - 9.2,>1.0,,,37 - 39%,,,Water,Excellent drying & blocking resistant for paper and paperboard,Milky water-based varnish for paper or paperboard,Acrylic Co-polymer,Water,,,,,,,,,High,High,,,Good,,,,,,,,,,,,,,,,,Low,,Fast,,Good,Good,Paper,Paperboard,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.6574235,Roller Coater,Surface & Inline,AQUACOAT 106A VARNISH,VARNISH,1,Water-based,"Undiluted
+4(J) = 20 - 25s",8.5 - 9.2,>1.0,,,40 - 44%,,,Water,Excellent drying & high gloss for paper and paperboard,Milky water-based varnish for paper or paperboard,Acrylic Co-polymer,Water,,,,,,,,,High,High,,,Good,,,,,,,,,,,,,,,,,,,Fast,,Good,Good,Paper,Paperboard,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.2540745,Offset / Roller Coater,Surface & Inline,AQUACOAT 200 VARNISH,VARNISH,1,Water-based,"Undiluted
+180 ± 30 cps  Brookfield LVT)",8.5 - 9.0,1.05 ± 0.05,,,32.0 ± 2%,0.245,,Water,High Slip for playing cards,Milky water-based varnish for playing card,,Water,,,,,High,,,,High,,Good,,Excellent,,,,,,,,,,,,,,,,,,,,,,,Playing Card,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.3920638,Offset / Roller Coater,Surface & Inline,AQUACOAT 210 HIGH SLIP PLAYING CARD VARNISH,VARNISH,1,Water-based,"Undiluted
+400 ± 100 cps (Brookfield LVT)",8.5 - 9.2,1.02 ± 2.0,,,32.0 ± 2.0%,,,Water,High Slip for playing cards,Milky water-based varnish for playing card,,Water,,,,,High,,,,Good,,Good,,Excellent,,,,,,,,,,,,,,,,,,,,,,,Playing Card,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.5526278,Offset / Roller Coater,Primer,AQUACOAT 300 WATER-BASED PRIMER,PRIMER,1,Water-based,"Undiluted
+170 ± 10 cps (Brookfield LVT)",8.5 - 9.2,0.97 ± 0.05,,,38.0 ± 1.0%,,,Water,Wetting of UV coating on the substrate,Milky water-based primer for uncoated paper prior UV Coating,Acrylic Co-polymer,Water,,,,,,,,,Enhance gloss UV coat,Good,,,,,,,,,,,,,,,,,,,,,,,,,Good,Uncoated paper,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.7803200,Flexo / Roller Coater,Surface,AQUACOAT 401 WATER-REPELLENT VARNISH,VARNISH,1,Water-based,"Undiluted
+180 ± 30 cps (Brookfield LVT)",8.5 - 9.2,1.03 ± 0.05,,,,,,Water,Water-repellent for paper and corrugated board,Milky water-repellent water-based varnish for paper and corrugated board,,Water,,,,,,,,,,Good,,,,,,,,,,,High,,,,,,,,,,,Fast,,Good,Good,Paper,Corrugated board,,,,,,,,,,,,,,,,,,,Treated substrate should be dried at least 24 hours for maximum water repellency,,,01/08/2003,
+0.7626376,Flexo / Roller Coater,Surface,AQUACOAT 500 CLEAR OVERPRINT VARNISH,VARNISH,1,Water-based,"Undiluted
+100 ± 20 cps (Brookfield LVT)",8.5 - 9.0,1.05 ± 0.05,,,31.0 ± 2.0,,,Water,Improve gloss & rub resistance for Kraft,White milky water-based overprint varnish for Kraft,Acrylic Co-polymer,Water,,,,,,,,,Good,,Good,,,,,,,,,,,,,,,,,,,,,Fast,,Good,Good,Kraft,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.9968700,Calendering,Surface (via Endless Press),AQUCOAT 600 CALENDERING VARNISH,VARNISH,1,Water-based,"Undiluted
+130 ± 30 cps (Brookfield LVT)",8.0 - 8.5,1.03 ± 0.05,,,39.0 ± 2.0%,,,Water,Heat resistance for endless press,White milky water-based varnish for endless press calendering equipment,,Water,,,,,,,,,High,,Good,,,,,Good,,,,,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.1276743,Calendering,Surface (via Endless Press),AQUCOAT 601 CALENDERING VARNISH,VARNISH,1,Water-based,"Undiluted
+4(J) : 25 ± 5s",8.5 - 9.2,1.04 ± 0.01,,,41.0 ± 1.0%,,,Water,Heat resistance for endless press,White milky water-based varnish for endless press calendering equipment,,Water,,,,,Good,,,,Mirror-like,Excellent,,,,,Good,,,Excellent,,,Good,,Excellent,,,,,,,,,,,,,Calendar paper,Paperboard,,,,,,,,,,,,,,,,,,,"1. Dilution with alcohol does not exceed 15% by weight
+2. Paperboards must be clay-coated to ensure good leveling, resulting better coating gloss and heat release",,"Machine Setting:
+Contact temperature, °C : 95 - 105
+Release temperature, °C : 50 ± 5.0
+Contact pressure, psi : 150
+Coating film weight, microns : 8",01/08/2003,
+0.2632632,Offset / Roller Coater,Surface & Inline,AQUACOAT 700 MATT VARNISH,VARNISH,1,Water-based,"Undiluted
+5(J) : 28 ± 5s",8.5 - 9.2,1.05 ± 0.05,,,38.0 ± 22.0%,,,Water,Matt finish for paper and paperboard,White milky water-based matt varnish for paper and paperboard substrates,Acrylic polymer,Water,,,,,,,,,Matt,Good,,,,,,,,,,,,,,,,,,,,,,Fast,,Good,Good,Paper,Paperboard,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.7573861,Offset / Roller Coater,Surface & Inline / Offline,AQUACOAT 800 ALKALI AND DETERGENT RESISTANCE OVERPRINT VARNISH,VARNISH,1,Water-based,"Undiluted
+45 ± 5 cps (Brookfield LVT)",8.0 - 8.5,0.93 ± 0.02,,,36.0 ± 1.0%,,,Water,Alkali and detergent resistance,White milky water-based varnish with alkali and detergent resistant properties for paper and paperboard ,Acrylic urethane polymer,Water,,,,,,,,,Outstanding,Good,,,"Temp : Up to 39°C
+Pressure : 0.694 kg/in²
+Time : 24 hours",,,,,,,,Excellent,,,,,Excellent,,,,,,,,,,Paper,Paperboard,,,,,,,,,,,,,,,,,,,"Maximum ratio dilution
+(Diluent : Aquacoat 800) = (1:9)",,,01/08/2003,
+0.2530095,Gravure / Flexo,Surface,4-0057B PLAYING CARD VARNISH,VARNISH,1,Solvent-based,"Undiluted
+4(J) : 15 - 30s",,1.02 ± 0.2,,,71.0 ± 2.0,,,"631
+Toluene : IPA : EA",Good solvent release & High Slip,Yellowish solvent-based varnish with less residual solvent for Playing Card Board,Nitrocellulose,Co-solvent,,,Good,,High,Good,,Good,,,,,,,,,,,,,,Good,,,,,,,,,,,,Good,,Paper,Paperboard,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.2349709,Gravure / Flexo,Surface,4-0206C ANTISTATIC VARNISH,VARNISH,1,Alcohol Based,"Undiluted
+4(J) : 17 - 21s",,,,,35.0 ± 2.0,,,Alcohol Mixture,Antistatic,Milky alcohol based varnish for coating metallized film,Polyamide resin,Alcohol,Polyethylene wax,,Good,,,Good,,,,,,,,,,,,,,,,Good,,,,,,,,,,,,,,Metallized film,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.7222284,Flexo / Gravure / Roller Coater,Surface & In-line,4-0243 HIGH SLIP PLAYING CARD VARNISH,VARNISH,1,Water-based,"Undiluted
+205 ± 25 cps (Brookfield LVT)",8.5 - 8.9,1.017,,,35.0 ± 1.0,,,Water,High Slip for playing cards,High Slip water-based varnish for coating on playing card,,Water,,,,,High,,,,High,Good,Good,,,,,,,,,,,,,,,,,,,,,Fast,,Good,Good,Paper,Paperboard,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.5605461,Flexo / Gravure / Roller Coater,Surface,4-0254A WATER BASED OVERPRINT VARNISH,VARNISH,1,Water-based,"Undiluted
+275 ± 25 cps (Brookfield LVT)",8.5 - 8.9,1.02 ± 0.2,,,38.0 ± 1.0,,,Water,,White milky water-based  OPV,Acrylic copolymer,Water,,,,,,,,,High,High,,,,,,,,,,,,,,,,,,,,Low,,Fast,,Good,Good,Paper,Paperboard,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.2753037,Flexo / Gravure / Roller Coater,Surface,4-0387 WATER BASED OVERPRINT VARNISH,VARNISH,1,Water-based,"Undiluted
+4(J) : 15 - 21s",8.5 - 9.0,1.02 ± 0.2,,,31.0 ± 1.0,,,Water,,White milky water-based OPV for corrugated board,Acrylic copolymer,,,,,,,,,,High,Good,,,,,,,,,,,,,,,,,,,,Low,,,,Good,Good,Corrugated Board,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.6040086,Flexo / Gravure / Roller Coater,Surface,4-0431 HEAT RESISTANCE OVERPRINT VARNISH,VARNISH,1,Water-based,"Undiluted
+4(J) : 12 - 16s",8.5 - 9.2,1.00 ± 0.05,,,38.0 ± 2.0,,,Water,"Heat Resistant, high gloss surface protection",White milky water-based heat resistant OPV for foils and paper stock,Acrylic polymer,Water,,,Excellent,,,,,,High,,,,,,,Up to 232°C,,Good,,,,,,,,,,,,,,,,,,Aluminium foil,Paper stock,,,,,,,,,,,,,,,,,,,Addition of Isopropyl alcohol should always be added slowly with agitation to prevent kick-out of the system,,"Wash-up : Isopropyl Alcohol
+Solvent Compatibility : Isopropyl Alcohol, n-propanol, ethanol, propylene glycol, ethylene glycol",01/08/2003,
+0.3903721,Roller Coater / Flexo Coater,Surface Application,4-0432 HEAT SEAL OVERPRINT VARNISH,VARNISH,1,Water-based,"Undiluted
+4(J) : 13 - 17s",8.0 - 8.5,1.03 ± 0.05,,,43.0 ± 2.0,,,Water,Heat-sealable overprint varnish / adhesive,White milky water-based heat sealable adhesive for pharmaceutical blister & visual card packaging,Acrylic emulsion,Water,,,,,,,,,,,Good,,,,,Good,,,,,,,,,,,,,,,,,,,Good,Aluminium foil,Paper stock,,,,,,,,,,,,,,,,,,,Addition of Isopropyl alcohol should always be added slowly with agitation to prevent kick-out of the system,,"Solvent Compatibility : Water, Isopropyl Alcohol",01/08/2003,
+0.2330005,Roller Coater / Flexo Coater,Surface,4-0433 BBN SLIP GOLD LACQUER,VARNISH,1,Water-based,"Undiluted
+4(J) : 10 - 14s",8.5 - 9.2,1.03 ± 0.05,,,31.0 ± 2.0,,,Water,Good slip for foils,Brown milky water-based varnish with good slip for foils,,Water,,,Adequate,,Good,,,,Good,,,,Good,,,,,,,,,,,,,,,,,,,,,,,Aluminium foil,,,,,,,,,,,,,,,,,,,,Addition of Isopropyl alcohol should always be added slowly with agitation to prevent kick-out of the system,,"Solvent Compatibility : Water, Ethanol, Isopropanol",01/08/2003,
+0.5720153,Roller Coater / Flexo Coater,Surface (Primer layer) — subsequently overprinted in Reverse with FXLP ink,4-0473 WATER BASED PRIMER,PRIMER,1,Water-based,"Undiluted
+4(J) : 13 - 17s",8.5 - 9.5,,,,37.0 ± 1.0,,,Water,Primer coating to enhance ink anchorage and scratch resistance,Milky water-based primer to improve adhesion of FXLP ink series when applied to vinyl (PVC) and treated OPP substrates.,Acrylic copolymer,Water,,,Improve,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fast,,,,PVC film,Treated OPP film,,,,,,,,,,,,,,,,,,,"1. Addition of Isopropyl alcohol should always be added slowly with agitation to prevent kick-out of the system
+2. Primer must be applied before printing.
+3. FXLP ink should be printed reverse on the primed film to prevent ink scratch-off.
+4. Ensures excellent adhesion and minimizes print delamination during lamination or handling.",,,01/08/2003,
+0.1567392,Gravure ,Surface,4-1045 LACQUER,LACQUER,1,Water-based,"Undiluted
+4(J) : 15 - 25s",,0.93 ± 0.02,,,37.0 ± 2.0,,,"631
+Toluene : IPA : EA",Surface lacquer / overprint protection layer,Yellowish solvent-based lacquer for aluminium foil,Nitrocellulose,Co-solvent,,,Good,,,,,Good,,,,,,,,,,,,,,Good,Good,,,,,,,,,,,Good,,Aluminium foil,,,,,,,,,,,,,,,,,,,,,,,01/08/2003,
+0.7496731,Overprint Varnishes,,SC 100 Playing Card Varnish,VARNISH,,Solvent-based,,,,,,,,,631,,,,,,,,,High,,,,Good,,Good,,Excellent,,,,,,,,,,,,,,,,,,,,,,,Playing Card,,,,,,,,,,,,,,,,,,,,,,,,
+0.8364851,Overprint Varnishes,,SC 600 Calendering Varnish,VARNISH,,Solvent-based,,,,,,,,,Toluene or ethyl acetate,,,,,,,,,,,,,Excellent,,,,Excellent,,,,,,,,,,,,,,,,,,,,,,,Paper,,,,,,,,,,,,,,,,,,,,,,,,
+0.2346213,,Roller Coater,4-1156 Acrylic Toned White Coating,VARNISH,0,Solvent-based,"Undiluted
+4(Ford Cup) = 145 - 155s",,1.320 ± 0.02,,,61.0 ± 2%,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aluminium Plate,Tin Plate,,,,,,,,,,,,,,,,,,,"Coverage:
+1) 2.62 kg per S.I.T.A @ 16.0 gsm
+2) 2.00 liter per S.I.T.A @ 16.0 gsm
+
+Stir well before use.
+Shelf life : six (6) months store at 30°C",6 months,"1. Dry film weight : 14.0 - 18.6 gsm (9.0 - 12.0 msi)
+2. Bake recommendation : 190 - 195°C for 10 - 12min (peak metal temperature)",,
+0.6881958,Others,,3971E Cyrel Developer,ADDITIVE,,Solvent-based,,,,,,,,,,,"Develop the Cyrel photopolymer plate
+Components:
+1. Chlorinated Hydrocarbon
+2. Aliphatic Alcohol",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Keep in a dark place
+2. Ventilate at floor level",,,,
+0.8235519,Others,,WF 100 Transfer Agent,ADDITIVE,,Water-based,,,,,,,,,,,"Flexo WB ink
+1. Improve wet transfer properties
+2. Improve Coverage more on solid printing area
+3. Reduce mottling (Slightly affect viscosity)
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Excess dosage may cause
+1. Slower drying
+2. Poor rub resistant",,,,
+0.2004581,Others,,WF 200 Anti Foaming Agent,ADDITIVE,,,,,,,,,,,,,"Non-toxic, silicone-free surfactant
+1. Aqueous foam
+2. Frothing problem",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Excess dosage may affect water-based ink performance,,,,
+0.0836829,Others,,WF 300 Fast reducer,ADDITIVE,,,,,,,,,,,,,"Organic Solvent
+1. Improve drying rate water-based ink",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable
+2. Explosive vapour",,,,
+0.5472255,Others,,WF 400 Slow Reducer,ADDITIVE,,,,,,,,,,,,,"Organic Solvent
+1. Reduce drying rate of water-based ink",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Combustible,,,,
+0.7668497,Others,,WF 500 Thickener,ADDITIVE,,,,,,,,,,,,,"1. Increase viscosity
+2. Water retention",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Excess dosage may affect water-based ink performance,,,,
+0.1544906,Others,,SEIKA 4100M SEIKADYNE,PRIMER,2,Alcohol-based,,,,,,,,,,Promotes adhesion for extrusion lamination and coatings\,"• Excellent adhesion to plain cellophane, treated OPP, PET, treated OPS, and aluminum foil
+• Good stability during extrusion lamination
+• Easy to apply, water-based formulation",,,,,Promoter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Plain cellophane,Treated OPP film,Treated PE film,Treated OPS,Aluminium Foil,,,,,,,,,,,,,,,,Flammable. Be cautious,,,,
+0.4252620,Others,,Daiplacoat Suede,VARNISH,,,,,,,,,,,,,"A one-component suede-like coating formulated with special plastic beads and vehicles, producing a matte, soft-textured finish similar to suede. Suitable for application on ABS, PS, PMMA, PC, AS, PVC, PP, and metals.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Read and follow the application instructions before use.,,,,
+0.4251526,Others,,Daiplacoat Soft Suede,VARNISH,,,,,,,,,,,,,"A urethane-based coating that produces a film with a soft, warm feel and an elegant matte appearance. The coating offers excellent resistance to scuffing and staining, along with outstanding durability. Suitable for application on ABS, PC, PVC, and metals.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Read and follow the application instructions before use.,,,,
+0.0897467,Others,,pH-Aide Stabilizer,ADDITIVE,1,Water-based,as Water,>11.0,,,,,,,"Water, Amine",Increases pH of water-based flexo ink,Milky solution with special additive for flexo water-based ink to increase the pH value,,"Water, Amine",Surface active agent,,,,,,Amine-like,,,,,,,,,,,,,,,,,,,,,,,Low,Low,,,,,,,,,,,,,,,,,,,,,,,,,"1. Handle with extra caution. Irritation may occur if in contact with eyes and skin. Please refer SDS
+2. Do not incorporate apart from Toyo Ink products.
+3. Add this solution slowly into the ink while mixing.
+4. Shake well before use.
+5. For industrial use only.",,,01/08/2003,
+0.2075295,Others,,BUTYL CELLOSOLVE SOLVENT,DILUENT,3,Solvent-based,,,0.901 - 0.904,169°C - 173°C,Open cup - 61°C,,,,,Slow evaporating solvent and coalescent for solvent and water-based ink systems,"Excellent solvent balance; improves flow, film formation, and open time in ink formulations",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Combustible; avoid open flames and sparks. 
+2. Add only under agitation. Use between 1–5% addition range. 
+3. Refer to SDS before use.",,,06/01/2007,
+0.7256554,Others,,D-HARDENERS,HARDENER,3,Solvent-based,,,1.005 - 1.023,,,,,,,Adhesion promoter and heat resistance enhancer,Improves adhesion and heat resistance of PU or solvent-based inks and varnishes; promotes film strength and durability,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable; keep away from ignition sources.
+2. Sensitive to moisture—store in sealed containers. 
+3. Do not store inks mixed with D-Hardener to prevent gelling or crosslinking.",,Add 1–3% into PU-based varnish or ink before use. Mix thoroughly before printing. Do not premix or store mixed ink for long periods.,01/11/2019,
+0.4588225,Others,,ETHYL ACETATE,DILUENT,0,Solvent-based,,,0.897 - 0.903,75°C - 80°C,-4.0°C - -3.0°C,,,,,Fast-evaporating solvent and viscosity reducer in ink formulations,"• Fast evaporation rate
+• Excellent solvency for resins and polymers
+• Promotes good leveling and drying
+• Mild pleasant odor",,EA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable.
+2. Keep away from sources of ignition.
+3. Refer Safety Data Sheet",,,13/10/2017,
+0.7086425,Others,,HPFLEX REDUCER,DILUENT,1,Solvent-based,,,0.79 - 0.83,97°C,23°C,,,,,Standard diluent for HPFLEX Ink Series,"• Provides proper solvency balance for HPFLEX inks
+• Maintains print quality and drying speed
+• Helps control viscosity stability during press run",,Organic solvent blend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable.
+2. Keep away from sources of ignition.
+3. Refer Safety Data Sheet",,,01/08/2003,
+0.0821468,Others,,HPFLEX 4-1242 REDUCER,DILUENT,0,Solvent-based,,,0.807 - 0.825,,,,,,,Standard viscosity reducer for HPFLEX inks,"• Provides optimal solvency for HPFLEX ink system
+• Maintains stable viscosity and print performance
+• Assists uniform ink transfer and drying",,Organic solvent blend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable.
+2. Keep away from sources of ignition.
+3. Refer Safety Data Sheet",,,14/06/2016,
+0.8217853,Others,,HPFLEX 4-2015 REDUCER,DILUENT,0,Solvent-based,,,0.799 - 0.809,,,,,,,Standard viscosity reducer for HPFLEX inks,"• Provides optimal solvency for HPFLEX ink system
+• Maintains stable viscosity and print performance
+• Assists uniform ink transfer and drying",,Organic solvent blend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable.
+2. Keep away from sources of ignition.
+3. Refer Safety Data Sheet",,,23/11/2015,
+0.8593625,Others,,HPFLEX 4-2017 REDUCER,DILUENT,0,Solvent-based,,,0.7 - 0.9,,,,,,,Slow-evaporating reducer for viscosity contro,"• Provides controlled drying and flow
+• Maintains stable viscosity during long runs
+• Enhances print leveling and smoothness",,Organic solvent blend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable.
+2. Keep away from sources of ignition.
+3. Refer Safety Data Sheet",,,28/12/2015,
+0.0297183,Others,,HPFLEX 4-2032 REDUCER,DILUENT,0,Solvent-based,,,0.804 - 0.807,,,,,,,Standard-evaporating reducer for viscosity control,"• Maintains stable ink viscosity
+• Provides balanced drying speed
+• Enhances print uniformity",,Organic solvent blend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable.
+2. Keep away from sources of ignition.
+3. Refer Safety Data Sheet",,,28/12/2015,
+0.3448923,Others,,IPA SOLVENT,DILUENT,2,Alcohol-based,,,0.784 - 0.789,,12°C (Abel method),,,,,Accelerates drying rate; improves flow and coalescence,"• Medium evaporation rate
+• Fully miscible with water and most solvents
+• Enhances drying speed of water-based ink",,Organic solvent blend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable. Vapour forms explosive mixture in air. Use in well-ventilated area and avoid ignition sources. 
+2. Add slowly under agitation. Working range: 1–5%.",,,08/04/2025,
+0.2504074,Others,,OPP/PP 4-0345 SLOW SOLVENT,DILUENT,1,Solvent-based,,,0.869 - 0.876,,-4°C (Closed Cup),,,,,Provides slower evaporation to control drying balance,"• Slow drying rate
+• Improves print leveling
+• Reduces solvent shock and reticulation
+• Maintains ink stability during long runs",,Organic solvent blend,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Highly flammable.
+2. Keep away from sources of ignition.
+3. Take precautionary measures against static discharge
+4. Refer Safety Data Sheet",,,01/03/2021,
+0.1891242,Others,,OPP/PP 4-2201 MATT ADDITIVE,ADDITIVE,1,,,,,,,,,<5,,"Provides matt effect, improves flow and transferability for OPP/PP ink seies","• Enhances leveling
+• Improves transfer uniformity
+• Reduces gloss
+• Maintains print smoothness",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1. Stir well before use.
+2. Highly flammable
+3. Keep away from sources of ignition.
+4. Please refer Safety Data Sheet (SDS) before handling this chemical.",,,28/02/2019,
+0.4398446,Others,,PEARL POWDER,ADDITIVE,1,,,,,,,,,5 - 20,,Provides pearlescent or metallic-like lustre effect,"• Silvery white lustre
+• Excellent stability
+• Compatible with most ink systems (water, solvent, oil/resin, UV)",,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Should be incorporated by thorough but gentle mixing until an homogeneous dispersion is obtained. The thin pearl powder pigment is sensitive to fracture any over-robust mechanical treatment e.g. roll, ball, or bead mills, often leads to loss of lustre.",,,08/06/18,

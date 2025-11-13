@@ -1,0 +1,7 @@
+﻿node_modules/
+.flowise/
+flowise_data/
+.env
+*.sqlite
+*.db
+npm-debug.log*
