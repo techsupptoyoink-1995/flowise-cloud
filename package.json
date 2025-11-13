@@ -1,18 +1,15 @@
 {
-  "name": "flowise-local",
+  "name": "flowise-cloud",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx flowise start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo \"No build step\"",
+    "render-build": "npm ci --omit=dev",
+    "start": "flowise start --PORT 10000 --HOST 0.0.0.0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "commonjs",
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "dependencies": {
     "@opentelemetry/exporter-trace-otlp-grpc": "^0.208.0",
